@@ -1,3 +1,16 @@
+Version 1.2-2
+=============
+
+* Maintenance release to adapt to new settings in **R** build tools
+  for Fortran. Github 
+  [issue #7](https://github.com/vegandevs/cepreader/issues/7)
+
+Version 1.2-1
+=============
+
+* Maintenance release for new Windows build tools. Fortran binary
+  is now 64-bit in Windows.
+
 Version 1.2-0
 =============
 
